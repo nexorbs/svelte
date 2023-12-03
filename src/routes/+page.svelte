@@ -11,7 +11,9 @@
         <p class='text-center text-2xl'>Visit <a class='text-blue-500 hover:underline' href='https://kit.svelte.dev'>kit.svelte.dev</a> to read the documentation</p>
         <br>
         <p class='text-center text-2xl'>Visit <a class='text-blue-500 hover:underline' href='https://tailwindcss.com/docs/installation'>tailwindcss.com/docs/</a> to read the documentation</p>
-        <p class="absolute bottom-0 text-zinc-900">Maked with NexOrbs</p>
+        <a href='https://github.com/nexorbs' target='_blank'>
+            <p class="absolute bottom-0 text-zinc-900">Maked with NexOrbs</p>
+        </a>
     </div>
 
 </Layout>
