@@ -4,8 +4,10 @@
 bun create nexorbs/Svelte NAME_OF_YOUR_PROYECT_DIR
 ```
 
-Solo se agrego:
+Only added:
 
 - Prettier
 - Eslint
 - Tailwind
+
+This repository will be updated periodically.
